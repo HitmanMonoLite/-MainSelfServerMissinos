@@ -1,9 +1,0 @@
-mapResource = 
-{
-	["ResKey_Action_129"] = "mist_4_5_126.lua",
-	["ResKey_Action_21"] = "LostKrymsk.png",
-	["ResKey_Action_22"] = "LostKrymsk_1.png",
-	["ResKey_Action_169"] = "DangerZoneVoice1.ogg",
-	["ResKey_Action_25"] = "LostKrymsk_3.png",
-	["ResKey_Action_24"] = "LostKrymsk_2.png",
-} -- end of mapResource
